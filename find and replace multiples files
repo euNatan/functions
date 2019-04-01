@@ -1,0 +1,1 @@
+grep -rl 'palavraasermudada' | xargs sed -i 's/de/para/g'
